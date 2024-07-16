@@ -3,14 +3,14 @@
 >#### Eu ❤️ resolver grandes desafios usando tecnologia.
 >#### Olhando para o futuro, estou entusiasmado em seguir uma carreira como Analista de Cybersegurança / Segurança da Informação ou Hacker Ético. Meu objetivo é proteger os ativos digitais e garantir uma segurança robusta para sistemas e dados. Além disso, estou ansioso para aprofundar meu conhecimento em áreas como testes de penetração, análise de ameaças e desenvolvimento de protocolos de segurança, além de exercer muito bem o BlueTeam e o RedTeam. Fora isso continuo aprimorando minhas capacidades de liderança e habilidades de gerenciamento de projetos.
 
-##
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrovitor10&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-tau-seven-29.vercel.app/api/top-langs/?username=pedrovitor10&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroVitor10&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroVitor10&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 
 ## My Skills
@@ -37,8 +37,8 @@
 #### Gaming
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-#### IDE 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+#### Development Environments
+![VisualStudioCode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 
 
@@ -58,19 +58,31 @@
 ## Contacts:
 
 <div>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)>
 <a href="https://www.instagram.com/_pedrovitorpv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 <a href="https://www.linkedin.com/in/pedrovitor10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
+##
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=N%C3%B3s%20s%C3%B3%20podemos%20ver%20um%20pouco%20do%20futuro,%20mas%20o%20suficiente%20para%20perceber%20que%20h%C3%A1%20muito%20a%20fazer.&author=Alan%20M.%20Turing%20(Pai%20da%20Computação)">
+</p>
+
 
 
 &nbsp;
 &nbsp;
 
 
+##
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrovitor10}/count.svg" /></p> 
+<br></div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+

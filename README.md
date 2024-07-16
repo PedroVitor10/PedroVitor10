@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=200%&section=header&text=Seja%20Bem-Vindo!%20&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&desc=Olá,%20eu%20sou%20%20Pedro%20Vítor%20👋🏻&descAlignY=50&descAlign=50&fontAlign=50&fontAlignY=25&fontSize=40&descSize=25"/> 
 
 >#### Eu ❤️ resolver grandes desafios usando tecnologia.
-<div class="justificado">
-    <p>#### Olhando para o futuro, estou entusiasmado em seguir uma carreira como Analista de Cybersegurança / Segurança da Informação ou Hacker Ético. Meu objetivo é proteger os ativos digitais e garantir uma segurança robusta para sistemas e dados. Além disso, estou ansioso para aprofundar meu conhecimento em áreas como testes de penetração, análise de ameaças e desenvolvimento de protocolos de segurança, além de exercer muito bem o BlueTeam e o RedTeam. Fora isso continuo aprimorando minhas capacidades de liderança e habilidades de gerenciamento de projetos.</p>
-</div>
+>#### Olhando para o futuro, estou entusiasmado em seguir uma carreira como Analista de Cybersegurança / Segurança da Informação ou Hacker Ético. Meu objetivo é proteger os ativos digitais e garantir uma segurança robusta para sistemas e dados. Além disso, estou ansioso para aprofundar meu conhecimento em áreas como testes de penetração, análise de ameaças e desenvolvimento de protocolos de segurança, além de exercer muito bem o BlueTeam e o RedTeam. Fora isso continuo aprimorando minhas capacidades de liderança e habilidades de gerenciamento de projetos.
 
-
+##
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrovitor10&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-tau-seven-29.vercel.app/api/top-langs/?username=pedrovitor10&show_icons=true&theme=radical&layout=compact" />

@@ -74,14 +74,8 @@
 &nbsp;
 
 
-##
-<div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrovitor10}/count.svg" /></p> 
-<br></div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita+e+volte+sempre!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
 
   
   
